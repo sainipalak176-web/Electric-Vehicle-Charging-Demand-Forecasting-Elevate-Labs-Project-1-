@@ -1,4 +1,5 @@
 # EV Charging Demand Forecasting
+Author - Palak Saini 
 
 ## Project Overview
 
